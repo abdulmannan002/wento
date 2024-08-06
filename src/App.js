@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Upload from './Components/Upload';
-import Results from './Components/Results';
-import Reports from './Components/Reports';
-import About from './Components/About';
-import Contact from './Components/Contact';
-import Header from './Components/Header';
+import Upload from './Pages/Upload';
+import Results from './Pages/Results';
+import Reports from './Pages/Reports';
+import About from './Pages/About';
+import Contact from './Pages/Contact';
+import Header from './Pages/Header';
 import logo from './logo.svg';
 import './App.css';
 
